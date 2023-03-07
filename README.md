@@ -1,10 +1,5 @@
-<div style="display: flex;justify-content: space-around;align-items: center;">
-<div>
-  <a href="https://github.com/wh1tenight">
-    <img height="560px" src="/profile-3d-contrib/profile-south-season-animate.svg">
-  </a>
-</div>
-  
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 - 👋 Hi, I’m @wh1tenight
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning golang、java and distributed system
