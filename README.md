@@ -5,7 +5,7 @@
   </a>
 </div>
   
-- 👋 Hi, I’m @wh1tenight
+- 👋 Hi, I’m @wh1teNight
 - 👀 I’m interested in Backend development
 - 🌱 I’m currently learning golang、java and distributed system
 - 💞️ I’m working in Tencent/WXG/WeCom
