@@ -7,7 +7,7 @@
   
 - 👋 Hi, I’m @jettcc, a backend developer
 - I’m currently learning golang、java and distributed system
-- I used to work at WeChat.Tencent/WXG/WeCom
+- I used to work at WeChat.Tencent/WXG/WeCom, Now working at MoeGo/Lyft-Team(Payment).
 - reach me jetttcc@gmail.com
 
 <!---
