@@ -1,7 +1,7 @@
 <!--
 <div style="display: flex;justify-content: space-around;align-items: center;">
 -->
-<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?color=244DF7A9&lines=Stay+hungry,+ Stay+foolish"> </a> </h1>
+<h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Stay+hungry+and+stay+foolish;I'm+jettcc%2C+welecome+here!" alt="Typing SVG" /></a> </h1>
 
 <img align="right" alt="jettcc github stats" width="400px"
       align="center"
