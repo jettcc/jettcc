@@ -14,11 +14,11 @@
 </li>
 <li>
   <p></p>
-  📖 I’m currently learning golang、java and distributed system
+  📖 I’m currently learning golang、java and C++ 
 </li>
 <li>
   <p></p>
-  🧑‍💻 I used to work at Tencent/WXG/WeCom, now working at MoeGo/Lyft-Team(Payment).
+  🧑‍💻 I used to work at Tencent/IEG/<a href="https://timi.qq.com">Timi</a> and Tencent/WXG/<a href="https://work.weixin.qq.com">WeCom</a>, and now I am working at MoeGo/Lyft-team(Payment).
 </li>
 <p></p>
 </ul>
