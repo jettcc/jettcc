@@ -18,7 +18,7 @@
 </li>
 <li>
   <p></p>
-  🧑‍💻 I used to work at Tencent/IEG/<a href="https://timi.qq.com">Timi</a> and Tencent/WXG/<a href="https://work.weixin.qq.com">WeCom</a>, and now I am working at MoeGo/Lyft-team(Payment).
+  🧑‍💻 I used to work at Tencent/IEG/<a href="https://timi.qq.com">Timi</a> and Tencent/WXG/<a href="https://work.weixin.qq.com">WeCom</a>, and now I am working at MoeGo/Fintech-team.
 </li>
 <p></p>
 </ul>
