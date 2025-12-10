@@ -3,9 +3,12 @@
 -->
 <h1 align="center"> <a href="#"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&random=false&width=435&lines=Stay+hungry+and+stay+foolish;I'm+jettcc%2C+welecome+here!" alt="Typing SVG" /></a> </h1>
 
+<!--
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jettcc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettcc&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
-
+-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <ul align="left">
 <li>
