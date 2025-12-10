@@ -21,4 +21,3 @@ jobs:
           ### content
           SHOW_TOTAL: true # optional
           STOP_AT_OTHER: true # optional
-          CODE_LANG: rust
