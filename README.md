@@ -42,7 +42,7 @@
 </li>
 <li>
   <p></p>
-  🧑‍💻 I used to work at Tencent/IEG/<a href="https://timi.qq.com">Timi</a> and Tencent/WXG/<a href="https://work.weixin.qq.com">WeCom</a>, and now I am working at <a href="https://www.moego.pet">MoeGo</a>/CRM-team.
+  🧑‍💻 I used to work at Tencent/IEG/<a href="https://timi.qq.com">Timi</a>, Tencent/WXG/<a href="https://work.weixin.qq.com">WeCom</a> and <a href="https://www.moego.pet">MoeGo</a>/CRM-team.
 </li>
 <p></p>
 </ul>
