@@ -7,7 +7,9 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=jettcc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettcc&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 -->
-<!--START_SECTION:waka-->
+
+<!--
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/%E8%B5%84%E6%96%99%E9%A1%B5%E6%B5%8F%E8%A7%88%E6%AC%A1%E6%95%B0-0-blue?style=flat)
@@ -25,7 +27,9 @@
 
 
  Last Updated on 30/05/2026 00:43:09 UTC
-<!--END_SECTION:waka-->
+
+-->
+
 
 <ul align="left">
 <li>
